@@ -2,7 +2,8 @@
 
 This is the repository for the paper "Early Prediction of Causes (not Effects) in Healthcare by Long-Term Clinical Time Series Forecasting" accepted at MLHC 2024.
 
-Paper:  LINK to be done
+Paper: [PMLR 252](https://proceedings.mlr.press/v252/staniek24a.html
+)  
 
 ## Table of Contents
 - [Early Prediction of Causes (not Effects) in Healthcare by Long-Term Clinical Time Series Forecasting](#early-prediction-of-causes-not-effects-in-healthcare-by-long-term-clinical-time-series-forecasting)
@@ -131,6 +132,7 @@ When using this paper or code, please use:
   volume={252},
   pages={1--29},
   year={2024},
-  publisher={}
+  publisher={},
+  url={https://proceedings.mlr.press/v252/staniek24a.html}
 }
 ```
